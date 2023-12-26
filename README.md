@@ -1,7 +1,6 @@
 # Controle de portaria com JAVA
-Essa é uma aplicação desktop que utiliza duas tecnologia consolidada no mercado sendo elas JAVA e MYSQL
-foi utilizado a IDE APACHE NETBEANS 18 e o gerenciador de banco de dados WORKBENCH 8.0 CE, a escolha do netbeans foi dada pelo 
-fato de netbeans ja trazer LIB como SWING para o agilidade no desenvolvimento de frames e customização de frames através de herança,
+Essa é uma aplicação desktop que utiliza duas tecnologias consolidadas no mercado, sendo elas JAVA e MYSQL.
+Foi utilizado a IDE APACHE NETBEANS 18 e o gerenciador de banco de dados WORKBENCH 8.0 CE. A escolha do netbeans foi dada pelo fato de netbeans ja trazer LIB como SWING para o agilidade no desenvolvimento de frames e customização de frames através de herança,
 já WORKBENCH facilita visualmente em testes e trás a opção de menos código.
 ## Quais métodos foram utilizados
 Em JAVA na versão 20 foi utilizado o paradigma de orientaçao a objetos assim como métodos DTO DAO para a comunicação entre backend e
