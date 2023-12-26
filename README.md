@@ -18,3 +18,5 @@ Após gerar a build do projeto é só copiar a pasta gerada chamada de DIST da p
 ![login](https://github.com/LeandroMeca/-concierge-control/assets/83671192/0ebc34e0-da83-4de2-93ae-ec43ed03e586)
 ![menu](https://github.com/LeandroMeca/-concierge-control/assets/83671192/dda2fdee-704e-4e1a-b4d7-f1faa4b58c22)
 ![database](https://github.com/LeandroMeca/-concierge-control/assets/83671192/3bfd85e7-f6bc-4ea7-a4b6-1296ae4e24c4)
+![login2](https://github.com/LeandroMeca/-concierge-control/assets/83671192/eb0ac1b5-62f8-4225-98a9-f207d6ffff19)
+![database2](https://github.com/LeandroMeca/-concierge-control/assets/83671192/cf9a48eb-6e96-48aa-ae4f-301560f21465)
