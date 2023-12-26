@@ -14,3 +14,5 @@ Como já foi mencionado foi utilizado a ide apache netbeans 18 com java você ut
 #### Instalação
 Após gerar a build do projeto é só copiar a pasta gerada chamada de DIST da pasta do projet e dentro dela terá um arquivo .jar com o java devidamente instalado
 é só executar o workbench criar os dados de login que será utilizado para validar o usuário e executar o jar
+
+##### Imagens do projeto
